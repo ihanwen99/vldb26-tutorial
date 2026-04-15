@@ -7,12 +7,8 @@ How Can Quantum Computing and Databases Meet “in Practice”?
 The tutorial takes a bidirectional and practice-oriented view of the area:
 
 - **Quantum-for-DB**: How quantum, quantum-inspired, and hybrid quantum-classical methods can support database problems such as query optimization, approximate query processing, retrieval, and privacy.
-
 - **DB-for-Quantum**: How database systems and data management principles can support quantum workloads through storage, encoding, simulation, and transpilation.
-
-- **Meet in Practice**: how the two areas come together through actual system integration and novel 
-
-  quantum-native database designs.
+- **Meet in Practice**: how the two areas come together through actual system integration and novel quantum-native database designs.
 
 ## About
 
