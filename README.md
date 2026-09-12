@@ -2,6 +2,14 @@
 
 How Can Quantum Computing and Databases Meet “in Practice”?
 
+Presented at VLDB 2026 in Boston by Hanwen Liu, Yiran Li, Ibrahim Sabek,
+Xuanhe Zhou, and Hans-Arno Jacobsen.
+
+## Materials
+
+- [Tutorial slides (PDF)](VLDB2026_Tutorial_Slides.pdf)
+- [Grover search hands-on notebook](grover_search_hands_on.ipynb)
+
 ---
 
 The tutorial takes a bidirectional and practice-oriented view of the area:
@@ -14,13 +22,14 @@ The tutorial takes a bidirectional and practice-oriented view of the area:
 
 Recent advances in gate-based quantum computing, quantum annealing, hybrid quantum-classical computing, and quantum-inspired optimization have motivated growing interest at the intersection of quantum computing and data management. This repository is intended to collect the materials behind the tutorial, including reading lists, references, and supporting resources.
 
-The tutorial is organized around five parts:
+The tutorial is organized around six parts:
 
 1. Quantum background and motivation
-2. Quantum computing for database systems
-3. Data management for quantum computing
-4. Quantum computing and database systems meet in practice
-5. Open challenges and research opportunities
+2. Quantum computing paradigms and algorithms
+3. Quantum computing for database systems
+4. Data management for quantum computing
+5. Quantum computing and database systems meet in practice
+6. Open challenges and research opportunities
 
 ---
 
